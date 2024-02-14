@@ -82,7 +82,7 @@ public class opImp implements operation {
 	public static void main(String[] args) {
 		opImp op = new opImp();
 		//op.insertData();
-	op.ubdateData();
+	//op.ubdateData();
 //		op.deletetData();
 //		op.disPlay();
 
